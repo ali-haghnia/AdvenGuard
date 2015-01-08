@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdvenGuard</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="user_prompt">Your UserName</string>
+	<string-array name="user_arrays">
+	    <item>Jim</item>
+	    <item>Peter</item> 
+	    <item>Tyson</item> 
+	    <item>Lee</item> 
+	    <item>Ali</item> 
+	    <item>Moon</item> 
+	    <item>Da Wu</item> 
+	    <item>Nicki</item> 
+	    <item>James</item> 
+	    <item>Wei Liu</item> 
+	</string-array>
+</resources>
